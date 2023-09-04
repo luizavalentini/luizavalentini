@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Luiza Valentini</h1>
 <h3 align="center">Frontend Developer</h3>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
