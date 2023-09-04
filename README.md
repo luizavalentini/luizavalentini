@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Luiza Valentini</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Developer</h3>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
