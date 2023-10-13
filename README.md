@@ -10,7 +10,7 @@
 <p align="left"> 
 Student of the sixth semester from the course of Software Engineering from the Pontifical Catholic University of Rio Grande do Sul and FrontEnd Intern at Neologica 🧠📚
 <p>
-  After this past year I started to be very interested in software development, not just by usual purposes, but also for the innovation purposes, that help to make a difference in the world. I recognize the necessity to be always learning, and I’m open to do that everyday 💡
+  After this past yeasr I started to be very interested in Front-End development, not just by usual purposes, but also for the innovation purposes, that help to make a difference in the world. I recognize the necessity to be always learning, and I’m open to do that everyday 💡
 </p>
 <p> My profile, is of someone creative, persistent and curious 🌱 </p>
 <div>
