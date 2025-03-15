@@ -22,7 +22,7 @@
 <p align="left"> 
 FrontEnd Developer at Overview Ai 🧠📚
 <p>
-  After this past yeasr I started to be very interested in Software development, not just by usual purposes, but also for the innovation purposes, that help to make a difference in the world. I recognize the necessity to be always learning, and I’m open to do that everyday 💡
+  After the past years I started to be very interested in Software development, not just by usual purposes, but also for the innovation purposes, that help to make a difference in the world. I recognize the necessity to be always learning, and I’m open to do that everyday 💡
 </p>
 <p> My profile, is of someone creative, persistent and curious 🌱 </p>
 <div>
